@@ -1,2 +1,2 @@
 # easy-extend-login-system
-a user login system demo without using session
+基于廖老师的易拓展用户系统设计思路写的demo，纯粹写着玩的
